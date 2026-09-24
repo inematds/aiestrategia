@@ -60,3 +60,11 @@ aiestrategia/
 Curso da [INEMA.CLUB](https://inema.club), baseado no projeto [ai-strategy-factory](https://github.com/inematds/ai-strategy-factory). Construído com Claude Code. Diagramas via [Mermaid](https://mermaid.live) / [eraser.io](https://www.eraser.io/make/free-mermaid-diagram-maker).
 
 Design no formato de cursos INEMA.CLUB (dark premium, SVG inline, responsivo, dark/light).
+
+<!-- inema-backlink:v1 -->
+## Mais no INEMA.CLUB
+
+- [Ficha completa deste curso](https://www.inema.club/cursos/152-fabrica-de-estrategia-de-ia-vire-consultor-de-ia/)
+- [Guia: como aprender inteligência artificial](https://www.inema.club/aprender-inteligencia-artificial/)
+- [Todos os cursos](https://www.inema.club/cursos/)
+<!-- /inema-backlink:v1 -->
